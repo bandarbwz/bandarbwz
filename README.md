@@ -66,7 +66,7 @@ if __name__ == "__main__":
 </td>
 <td width="40%" valign="center">
 
-<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/img/dark-workspace.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%"/>
 
 </td>
 </tr>
@@ -218,8 +218,8 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bandarbwz&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandarbwz&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="42%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=bandarbwz&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bandarbwz&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="42%"/>
 
 <br/><br/>
 
@@ -237,7 +237,7 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bandarbwz&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=bandarbwz&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
