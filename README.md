@@ -144,7 +144,7 @@ if __name__ == "__main__":
 <tr>
 <td width="50%">
 
-** Python Projects**
+**Python Projects**
 <br/>
 Automation scripts, data tools & backend logic exploring clean, Pythonic solutions to real-world problems.
 <br/>
@@ -153,7 +153,7 @@ Automation scripts, data tools & backend logic exploring clean, Pythonic solutio
 </td>
 <td width="50%">
 
-**☕ Java Projects**
+**Java Projects**
 <br/>
 OOP-driven applications built while mastering core Java principles and software design patterns.
 <br/>
@@ -164,7 +164,7 @@ OOP-driven applications built while mastering core Java principles and software 
 <tr>
 <td width="50%">
 
-** Backend APIs**
+**Backend APIs**
 <br/>
 RESTful services and server-side systems focused on scalability, clean architecture, and performance.
 <br/>
@@ -173,7 +173,7 @@ RESTful services and server-side systems focused on scalability, clean architect
 </td>
 <td width="50%">
 
-** AI Projects**
+**AI Projects**
 <br/>
 Experiments in machine learning and intelligent automation — the foundation of my AI Engineer journey.
 <br/>
@@ -184,7 +184,7 @@ Experiments in machine learning and intelligent automation — the foundation of
 <tr>
 <td width="50%">
 
-** University Projects**
+**University Projects**
 <br/>
 Coursework and collaborative builds from my Computer Science studies.
 <br/>
