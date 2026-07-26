@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b1400&height=200&section=header&text=Bandar%20K.%20Bawazir&fontSize=48&fontColor=FF8C00&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b1400&height=200&section=header&text=Bandar%20K.%20Bawazir&fontSize=50&fontColor=FF8C00&stroke=000000&strokeWidth=2&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=140&lines=Python+Developer;Backend+Development+%E2%80%A2+Future+AI+Engineer;Computer+Science+Student" alt="Typing SVG"/>
 
@@ -10,13 +10,11 @@
 
 </div>
 
-<br/>
-
-## ✨ About Me
+## About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="middle">
 
 ```python
 # bandar.py
@@ -56,33 +54,26 @@ if __name__ == "__main__":
 ```
 
 </td>
-<td width="42%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="480"/>
-
+<td width="42%" valign="middle" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming Languages**
 <div align="center">
-
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF8C00"/>
-
 </div>
 
 **Tools & Platforms**
 <div align="center">
-
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FF8C00"/>
@@ -92,15 +83,11 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF8C00"/>
-
 </div>
 
-<br/>
-
-## 📚 Currently Learning
+## Currently Learning
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Backend%20Engineering-000000?style=for-the-badge&logo=fastapi&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=FF8C00"/>
@@ -108,12 +95,9 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/Software%20Architecture-000000?style=for-the-badge&logo=blueprint&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=fastapi&logoColor=FF8C00"/>
 <img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge&logo=windowsterminal&logoColor=FF8C00"/>
-
 </div>
 
-<br/>
-
-## 🖥️ My Workspace
+## My Workspace
 
 <div align="center">
 
@@ -130,98 +114,84 @@ if __name__ == "__main__":
 </tr>
 </table>
 
-`⚡ AI Engine: ONLINE`&nbsp;&nbsp;`🧠 Backend Services: RUNNING`&nbsp;&nbsp;`🐍 Python Kernel: ACTIVE`
+`AI Engine: ONLINE`&nbsp;&nbsp;`Backend Services: RUNNING`&nbsp;&nbsp;`Python Kernel: ACTIVE`
 
 </div>
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🐍 Python Projects**
-<br/>
-Automation scripts, data tools & backend logic exploring clean, Pythonic solutions to real-world problems.
-<br/>
+**Python Projects**
+
+Automation scripts and backend tools built around clean, Pythonic solutions to real problems.
+
 <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF8C00"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**☕ Java Projects**
-<br/>
-OOP-driven applications built while mastering core Java principles and software design patterns.
-<br/>
+**Java Projects**
+
+OOP-driven applications built while mastering core Java principles and design patterns.
+
 <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=FF8C00"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚙️ Backend APIs**
-<br/>
-RESTful services and server-side systems focused on scalability, clean architecture, and performance.
-<br/>
+**Backend APIs**
+
+RESTful services and server-side systems focused on scalability and clean architecture.
+
 <img src="https://img.shields.io/badge/-REST%20API-000000?style=flat-square&logo=fastapi&logoColor=FF8C00"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 AI Projects**
-<br/>
-Experiments in machine learning and intelligent automation — the foundation of my AI Engineer journey.
-<br/>
+**AI Projects**
+
+Experiments in machine learning and automation — the foundation of my AI Engineer path.
+
 <img src="https://img.shields.io/badge/-Artificial%20Intelligence-000000?style=flat-square&logo=openai&logoColor=FF8C00"/>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎓 University Projects**
-<br/>
+**University Projects**
+
 Coursework and collaborative builds from my Computer Science studies.
-<br/>
+
 <img src="https://img.shields.io/badge/-CS%20Coursework-000000?style=flat-square&logo=googlescholar&logoColor=FF8C00"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌐 Future Full-Stack Projects**
-<br/>
-Upcoming builds combining frontend, backend, databases, and AI into complete end-to-end products.
-<br/>
+**Full-Stack Projects**
+
+Upcoming builds combining frontend, backend, databases, and AI into complete products.
+
 <img src="https://img.shields.io/badge/-Full%20Stack-000000?style=flat-square&logo=vercel&logoColor=FF8C00"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br/>
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<img src="https://github-stats-extended.vercel.app/api?username=bandarbwz&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&count_private=true" width="100%"/>
-</td>
-<td width="33%" valign="top">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bandarbwz&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="100%"/>
-</td>
-<td width="33%" valign="top">
-<img src="https://streak-stats.demolab.com/?user=bandarbwz&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="100%"/>
-</td>
+<td align="center"><img src="https://github-stats-extended.vercel.app/api?username=bandarbwz&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&count_private=true" width="330" height="195"/></td>
+<td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bandarbwz&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="330" height="195"/></td>
+<td align="center"><img src="https://streak-stats.demolab.com/?user=bandarbwz&hide_border=true&background=0D0D0D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="330" height="195"/></td>
 </tr>
 </table>
 
@@ -231,33 +201,18 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 </div>
 
-<br/>
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/bandarbwz/bandarbwz/output/github-contribution-grid-snake.svg" width="90%"/>
-
-<sub>Requires a one-time GitHub Action setup — see instructions provided separately.</sub>
-
 </div>
 
-<br/>
-
-## 📧 Contact
+## Contact
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Email-bndoribwz3%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FF8C00"/>
-
-<a href="https://www.linkedin.com/in/bandarbawazir">
-<img src="https://img.shields.io/badge/LinkedIn-bandarbawazir-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00"/>
-</a>
-
+<a href="https://www.linkedin.com/in/bandarbawazir"><img src="https://img.shields.io/badge/LinkedIn-bandarbawazir-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00"/></a>
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1400,50:1a1a1a,100:0d0d0d&height=120&section=footer"/>
