@@ -239,8 +239,6 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 <img src="https://raw.githubusercontent.com/bandarbwz/bandarbwz/output/github-contribution-grid-snake.svg" width="90%"/>
 
-<sub>Requires a one-time GitHub Action setup — see instructions provided separately.</sub>
-
 </div>
 
 <br/>
