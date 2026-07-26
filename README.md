@@ -12,7 +12,7 @@
 
 <br/>
 
-## About Me
+## ✨ About Me
 
 <table>
 <tr>
@@ -66,7 +66,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Programming Languages**
 <div align="center">
@@ -97,7 +97,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## My Workspace
+## 🖥️ My Workspace
 
 <div align="center">
 
@@ -136,7 +136,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -144,7 +144,7 @@ if __name__ == "__main__":
 <tr>
 <td width="50%">
 
-**Python Projects**
+**🐍 Python Projects**
 <br/>
 Automation scripts, data tools & backend logic exploring clean, Pythonic solutions to real-world problems.
 <br/>
@@ -153,7 +153,7 @@ Automation scripts, data tools & backend logic exploring clean, Pythonic solutio
 </td>
 <td width="50%">
 
-**Java Projects**
+**☕ Java Projects**
 <br/>
 OOP-driven applications built while mastering core Java principles and software design patterns.
 <br/>
@@ -164,7 +164,7 @@ OOP-driven applications built while mastering core Java principles and software 
 <tr>
 <td width="50%">
 
-**Backend APIs**
+**⚙️ Backend APIs**
 <br/>
 RESTful services and server-side systems focused on scalability, clean architecture, and performance.
 <br/>
@@ -173,7 +173,7 @@ RESTful services and server-side systems focused on scalability, clean architect
 </td>
 <td width="50%">
 
-**AI Projects**
+**🤖 AI Projects**
 <br/>
 Experiments in machine learning and intelligent automation — the foundation of my AI Engineer journey.
 <br/>
@@ -184,7 +184,7 @@ Experiments in machine learning and intelligent automation — the foundation of
 <tr>
 <td width="50%">
 
-**University Projects**
+**🎓 University Projects**
 <br/>
 Coursework and collaborative builds from my Computer Science studies.
 <br/>
@@ -193,7 +193,7 @@ Coursework and collaborative builds from my Computer Science studies.
 </td>
 <td width="50%">
 
-**Future Full-Stack Projects**
+**🌐 Future Full-Stack Projects**
 <br/>
 Upcoming builds combining frontend, backend, databases, and AI into complete end-to-end products.
 <br/>
@@ -207,7 +207,7 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 <br/>
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -233,17 +233,19 @@ Upcoming builds combining frontend, backend, databases, and AI into complete end
 
 <br/>
 
-##  Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/bandarbwz/bandarbwz/output/github-contribution-grid-snake.svg" width="90%"/>
 
+<sub>Requires a one-time GitHub Action setup — see instructions provided separately.</sub>
+
 </div>
 
 <br/>
 
-## Contact
+## 📧 Contact
 
 <div align="center">
 
